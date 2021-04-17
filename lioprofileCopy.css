@@ -1,5 +1,3 @@
-
-
 /*
   Free to use CSS template by Katie (#106445).
   This code may be altered, edited, or re-uploaded. 
@@ -8,18 +6,17 @@
 */
 
 
-/* FONT (font-family: 'Dancing Script', cursive;) */
+/* FONT (From Google Fonts) */
 
-@import url('<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">');
+@import url('FONT LINK HERE');
 
 /* BACKGROUND */
 
 body {
-	background: url('https://github.com/Ressaapanda/Lio/raw/9b2b7633f4df50055af46def1ab13ab89e78e9d9/Jellonatausta.png') center center fixed;
+	background: url('https://github.com/Ressaapanda/Lio/blob/9b2b7633f4df50055af46def1ab13ab89e78e9d9/Jellonatausta.png') center center fixed;
 	background-size: 100%;
-	font-family: font-family: 'Dancing Script', cursive;;
-	color: #c91d22;
+	font-family: FONT CSS HERE;
+	color: #000000;
 }
 
 
@@ -452,4 +449,3 @@ a[href$="lionoverview.php?id=USERID"]>div.cave-grid>img {
 	padding-top: 80px;
 	padding-right: 130px;
 }
-
